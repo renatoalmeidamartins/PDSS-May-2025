@@ -1,3 +1,9 @@
+## Class evaluation
+- Go to aws.training
+- Click sign in, log in with the same account you used to access the lab and course materials
+- Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+You should see the class, with a button to evaluate
+
 ## Class links
 - [AWS technical essentials online content](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1851/aws-technical-essentials)
 - [Online Course Supplement for the class - videos, additional link and extras](https://explore.skillbuilder.aws/learn/courses/17719/online-course-supplement-practical-data-science-with-amazon-sagemaker/lessons/153500/practical-data-science-with-amazon-sagemaker-online-course-supplement)
@@ -18,3 +24,5 @@
 - [Examples of model monitor in the docs](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker_model_monitor/introduction/SageMaker-ModelMonitoring.html)
 - [Sagemaker Clarify](https://github.com/aws/amazon-sagemaker-clarify)
 - [Using Clarify](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker-clarify/fairness_and_explainability/fairness_and_explainability.html)
+- [Sagemaker studio lab](https://github.com/aws/studio-lab-examples/tree/main)
+- 
