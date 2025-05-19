@@ -1,3 +1,6 @@
+## My contact details
+- Linkedin -> [https://www.linkedin.com/in/renatodealmeidamartins/](https://www.linkedin.com/in/renatodealmeidamartins/)
+- email: renatoalmeidamartins@gmail.com
 ## Class evaluation
 - Go to aws.training
 - Click sign in, log in with the same account you used to access the lab and course materials
