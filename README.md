@@ -14,3 +14,7 @@
 - [Balancing data inside Data Wrangler (for example, using SMOTE)](https://aws.amazon.com/blogs/machine-learning/balance-your-data-for-machine-learning-with-amazon-sagemaker-data-wrangler/)
 - [Sagemaker runtime invokeendpoint API](https://docs.aws.amazon.com/sagemaker/latest/APIReference/API_runtime_InvokeEndpoint.html)
 - [Predictors in the Sagemaker SDK](https://sagemaker.readthedocs.io/en/stable/api/inference/predictors.html)
+- [Sagemaker model monitor](https://docs.aws.amazon.com/sagemaker/latest/dg/model-monitor.html)
+- [Examples of model monitor in the docs](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker_model_monitor/introduction/SageMaker-ModelMonitoring.html)
+- [Sagemaker Clarify](https://github.com/aws/amazon-sagemaker-clarify)
+- [Using Clarify](https://sagemaker-examples.readthedocs.io/en/latest/sagemaker-clarify/fairness_and_explainability/fairness_and_explainability.html)
