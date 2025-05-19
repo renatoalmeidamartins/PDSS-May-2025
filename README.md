@@ -7,3 +7,4 @@
 - [AI Winter](https://en.wikipedia.org/wiki/AI_winter)
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Transformers architecture](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- [Sagemaker built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
