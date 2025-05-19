@@ -3,4 +3,6 @@
 - [Online Course Supplement for the class - videos, additional link and extras](https://explore.skillbuilder.aws/learn/courses/17719/online-course-supplement-practical-data-science-with-amazon-sagemaker/lessons/153500/practical-data-science-with-amazon-sagemaker-online-course-supplement)
 
 - [Access to labs and course materials](https://us-east-1.student.classrooms.aws.training/class/u2EqHJQNthfQsuxpPtVQeH)
-- 
+- [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
+- [AI Winter](https://en.wikipedia.org/wiki/AI_winter)
+- [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
